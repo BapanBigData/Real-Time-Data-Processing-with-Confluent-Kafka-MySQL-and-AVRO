@@ -1,0 +1,32 @@
+{
+    "type": "record",
+    "name": "ProductData",
+    "namespace": "com.example.ecommerce.product", 
+    "fields": [
+    {
+        "name": "id",
+        "type": "int",
+        "doc": "Unique identifier for the product"
+    },
+    {
+        "name": "name",
+        "type": "string",
+        "doc": "Name of the product"
+    },
+    {
+        "name": "category",
+        "type": "string",
+        "doc": "Category the product belongs to"
+    },
+    {
+        "name": "price",
+        "type": "double",
+        "doc": "Price of the product"
+    },
+    {
+        "name": "last_updated",
+        "type": "long",
+        "doc": "Timestamp (Unix epoch in milliseconds) indicating when the product information was last updated"
+    }
+    ]
+}

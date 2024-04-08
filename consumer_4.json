@@ -1,0 +1,90 @@
+{"id": 4, "name": "Backpack", "category": "Category D", "price": 940.72, "last_updated": 1711707971}
+{"id": 6, "name": "Gaming Console", "category": "Category C", "price": 843.38, "last_updated": 1711707985}
+{"id": 9, "name": "Tablet", "category": "Category B", "price": 589.9, "last_updated": 1711708002}
+{"id": 10, "name": "Sunglasses", "category": "Category A", "price": 432.78, "last_updated": 1711708006}
+{"id": 12, "name": "Gaming Console", "category": "Category C", "price": 522.6, "last_updated": 1711708015}
+{"id": 14, "name": "Gaming Console", "category": "Category B", "price": 413.67, "last_updated": 1711708026}
+{"id": 16, "name": "Sunglasses", "category": "Category C", "price": 13.66, "last_updated": 1711708039}
+{"id": 19, "name": "Tablet", "category": "Category B", "price": 686.62, "last_updated": 1711708051}
+{"id": 21, "name": "Laptop", "category": "Category C", "price": 953.64, "last_updated": 1711708063}
+{"id": 23, "name": "Backpack", "category": "Category B", "price": 974.41, "last_updated": 1711708081}
+{"id": 25, "name": "Charger", "category": "Category B", "price": 441.16, "last_updated": 1711708097}
+{"id": 27, "name": "Charger", "category": "Category B", "price": 226.88, "last_updated": 1711708103}
+{"id": 28, "name": "Phone", "category": "Category A", "price": 180.38, "last_updated": 1711708108}
+{"id": 31, "name": "Headphones", "category": "Category B", "price": 499.47, "last_updated": 1711708121}
+{"id": 33, "name": "Running Shoes", "category": "Category D", "price": 777.0, "last_updated": 1711708138}
+{"id": 35, "name": "Running Shoes", "category": "Category B", "price": 866.9, "last_updated": 1711708149}
+{"id": 37, "name": "Backpack", "category": "Category D", "price": 370.37, "last_updated": 1711708163}
+{"id": 38, "name": "Gaming Console", "category": "Category A", "price": 37.7, "last_updated": 1711708169}
+{"id": 40, "name": "Tablet", "category": "Category C", "price": 101.36, "last_updated": 1711708185}
+{"id": 42, "name": "Phone", "category": "Category C", "price": 173.1, "last_updated": 1711708197}
+{"id": 44, "name": "Gaming Console", "category": "Category E", "price": 514.54, "last_updated": 1711708204}
+{"id": 46, "name": "Books", "category": "Category B", "price": 41.17, "last_updated": 1711708211}
+{"id": 49, "name": "Gaming Console", "category": "Category A", "price": 792.39, "last_updated": 1711708224}
+{"id": 50, "name": "Headphones", "category": "Category B", "price": 567.24, "last_updated": 1711708234}
+{"id": 52, "name": "Laptop", "category": "Category D", "price": 610.33, "last_updated": 1711708247}
+{"id": 54, "name": "Gaming Console", "category": "Category E", "price": 581.04, "last_updated": 1711708256}
+{"id": 56, "name": "Phone", "category": "Category E", "price": 133.67, "last_updated": 1711708263}
+{"id": 59, "name": "Laptop", "category": "Category B", "price": 279.85, "last_updated": 1711708274}
+{"id": 61, "name": "Phone", "category": "Category A", "price": 393.18, "last_updated": 1711708288}
+{"id": 63, "name": "Desk Lamp", "category": "Category A", "price": 632.0, "last_updated": 1711708300}
+{"id": 65, "name": "Phone", "category": "Category B", "price": 323.63, "last_updated": 1711708311}
+{"id": 67, "name": "Tablet", "category": "Category D", "price": 704.76, "last_updated": 1711708321}
+{"id": 68, "name": "Books", "category": "Category B", "price": 838.78, "last_updated": 1711708327}
+{"id": 71, "name": "Tablet", "category": "Category D", "price": 307.84, "last_updated": 1711708343}
+{"id": 73, "name": "Sunglasses", "category": "Category D", "price": 186.77, "last_updated": 1711708354}
+{"id": 75, "name": "Sunglasses", "category": "Category A", "price": 802.23, "last_updated": 1711708365}
+{"id": 77, "name": "Sunglasses", "category": "Category D", "price": 223.69, "last_updated": 1711708374}
+{"id": 78, "name": "Running Shoes", "category": "Category D", "price": 660.7, "last_updated": 1711708382}
+{"id": 80, "name": "Sunglasses", "category": "Category C", "price": 226.51, "last_updated": 1711708392}
+{"id": 82, "name": "Laptop", "category": "Category A", "price": 171.84, "last_updated": 1711708407}
+{"id": 84, "name": "Sunglasses", "category": "Category E", "price": 215.05, "last_updated": 1711708418}
+{"id": 86, "name": "Running Shoes", "category": "Category D", "price": 472.98, "last_updated": 1711708427}
+{"id": 89, "name": "Charger", "category": "Category E", "price": 548.2, "last_updated": 1711708442}
+{"id": 90, "name": "Charger", "category": "Category B", "price": 57.11, "last_updated": 1711708451}
+{"id": 92, "name": "Headphones", "category": "Category B", "price": 715.68, "last_updated": 1711708456}
+{"id": 94, "name": "Phone", "category": "Category A", "price": 362.64, "last_updated": 1711708470}
+{"id": 96, "name": "Tablet", "category": "Category A", "price": 886.66, "last_updated": 1711708486}
+{"id": 99, "name": "Desk Lamp", "category": "Category B", "price": 854.82, "last_updated": 1711708503}
+{"id": 101, "name": "Running Shoes", "category": "Category C", "price": 771.82, "last_updated": 1711708520}
+{"id": 103, "name": "Running Shoes", "category": "Category A", "price": 478.48, "last_updated": 1711708532}
+{"id": 105, "name": "Phone", "category": "Category E", "price": 934.41, "last_updated": 1711708545}
+{"id": 107, "name": "Books", "category": "Category A", "price": 391.49, "last_updated": 1711708554}
+{"id": 108, "name": "Charger", "category": "Category B", "price": 827.92, "last_updated": 1711708556}
+{"id": 111, "name": "Tablet", "category": "Category B", "price": 952.64, "last_updated": 1711708571}
+{"id": 113, "name": "Tablet", "category": "Category C", "price": 306.54, "last_updated": 1711708585}
+{"id": 115, "name": "Tablet", "category": "Category B", "price": 285.76, "last_updated": 1711708602}
+{"id": 117, "name": "Laptop", "category": "Category B", "price": 385.8, "last_updated": 1711708610}
+{"id": 118, "name": "Laptop", "category": "Category C", "price": 963.2, "last_updated": 1711708614}
+{"id": 120, "name": "Charger", "category": "Category B", "price": 941.56, "last_updated": 1711708629}
+{"id": 121, "name": "Headphones", "category": "Category B", "price": 289.04, "last_updated": 1711710583}
+{"id": 123, "name": "Headphones", "category": "Category C", "price": 741.86, "last_updated": 1711710845}
+{"id": 128, "name": "Desk Lamp", "category": "Category C", "price": 828.96, "last_updated": 1711711053}
+{"id": 135, "name": "Backpack", "category": "Category E", "price": 279.41, "last_updated": 1711711091}
+{"id": 137, "name": "Laptop", "category": "Category E", "price": 165.97, "last_updated": 1711711107}
+{"id": 140, "name": "Desk Lamp", "category": "Category B", "price": 467.18, "last_updated": 1711711126}
+{"id": 142, "name": "Gaming Console", "category": "Category D", "price": 373.94, "last_updated": 1711711136}
+{"id": 149, "name": "Running Shoes", "category": "Category D", "price": 316.09, "last_updated": 1711711171}
+{"id": 154, "name": "Sunglasses", "category": "Category C", "price": 278.07, "last_updated": 1711711196}
+{"id": 156, "name": "Running Shoes", "category": "Category C", "price": 756.66, "last_updated": 1711711205}
+{"id": 161, "name": "Headphones", "category": "Category C", "price": 730.15, "last_updated": 1711711237}
+{"id": 163, "name": "Headphones", "category": "Category A", "price": 313.58, "last_updated": 1711711248}
+{"id": 168, "name": "Laptop", "category": "Category D", "price": 290.27, "last_updated": 1711711268}
+{"id": 175, "name": "Gaming Console", "category": "Category C", "price": 651.75, "last_updated": 1711711310}
+{"id": 177, "name": "Phone", "category": "Category E", "price": 800.72, "last_updated": 1711711323}
+{"id": 180, "name": "Running Shoes", "category": "Category D", "price": 77.04, "last_updated": 1711711335}
+{"id": 182, "name": "Running Shoes", "category": "Category A", "price": 528.4, "last_updated": 1711711349}
+{"id": 189, "name": "Books", "category": "Category D", "price": 772.55, "last_updated": 1711711385}
+{"id": 194, "name": "Gaming Console", "category": "Category B", "price": 819.86, "last_updated": 1711711413}
+{"id": 196, "name": "Phone", "category": "Category A", "price": 228.96, "last_updated": 1711711420}
+{"id": 204, "name": "Running Shoes", "category": "Category D", "price": 465.06, "last_updated": 1711711466}
+{"id": 206, "name": "Tablet", "category": "Category A", "price": 101.53, "last_updated": 1711711473}
+{"id": 210, "name": "Desk Lamp", "category": "Category D", "price": 215.26, "last_updated": 1711711502}
+{"id": 212, "name": "Laptop", "category": "Category A", "price": 849.37, "last_updated": 1711711517}
+{"id": 219, "name": "Running Shoes", "category": "Category D", "price": 888.02, "last_updated": 1711711569}
+{"id": 225, "name": "Backpack", "category": "Category E", "price": 229.37, "last_updated": 1711711592}
+{"id": 227, "name": "Sunglasses", "category": "Category C", "price": 434.2, "last_updated": 1711711604}
+{"id": 231, "name": "Charger", "category": "Category B", "price": 625.66, "last_updated": 1711711621}
+{"id": 233, "name": "Charger", "category": "Category A", "price": 935.1, "last_updated": 1711711629}
+{"id": 238, "name": "Phone", "category": "Category A", "price": 460.92, "last_updated": 1711711662}
+{"id": 244, "name": "Backpack", "category": "Category E", "price": 231.26, "last_updated": 1711711701}
